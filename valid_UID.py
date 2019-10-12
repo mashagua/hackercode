@@ -5,7 +5,6 @@ Created on Mon Oct  7 18:02:44 2019
 @author: masha
 """
 import re
-
 def valid(s):
     if len(s) != 10:
         return 'Invalid'
